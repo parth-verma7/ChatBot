@@ -1,0 +1,19 @@
+{
+    "online":[
+        {
+            "tag":"book",
+            "patterns":["book flight","flight booking","I wanna book a flight","flight book"],
+            "responses":["We would be happy to book a flight for you, Can you please give us the following information:-"]
+        },
+        {
+            "tag":"change",
+            "patterns":["change flight","flight change","I wanna change a flight","Switch the flight"],
+            "responses":["Ok fine, can you please give us the following information:-"]
+        },
+        {
+            "tag":"cancel",
+            "patterns":["cancel flight","flight cancel","I wanna cancel my flight","Cancel the flight"],
+            "responses":["Ok fine, can you please give us the following information:-"]
+        }
+    ]
+}

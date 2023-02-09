@@ -1,0 +1,11 @@
+IntentID=1
+Name=parth
+PID=8
+PhoneNo=84331
+Email=scvd
+Sex=dvbf
+Origin=mathura
+Destiny=delhi
+BookingDate=07-02-2023
+DepartureDate=0    20-12-2003
+Name: DepartureDate, dtype: object
